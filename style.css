@@ -1,8 +1,8 @@
 .cabecalho-imagem{
-    width: 20%;
+    width: 25%;
 }
 .cabecalho {
-    background-color: #383d38;
+    background-color: #2A4A87;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -18,3 +18,20 @@
     margin: 0;
     padding: 0;
 }
+.escola-imagem{
+    width: 25%;
+}
+.escola{
+    background-image: linear-gradient(#2A4A87,#397579);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.escola-div-conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    padding: 24px 0;
+}justify-content: center;
