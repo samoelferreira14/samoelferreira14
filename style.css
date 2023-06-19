@@ -33,5 +33,14 @@
     width: 35%;
 }
 .escola-titulo{
-    padding: 24px 0;
-}justify-content: center;
+    padding: 24px 0; 
+}
+.rodape{
+background-color: black;
+text-align: center;
+}
+.rodape-imagem{
+height: 60px;
+padding: 12px 0;
+
+} 
